@@ -14,4 +14,11 @@ The file works through Express.js on the backend. It stores notes with unique ID
 
 ## Screenshots
 
-![]()
+### Landing Page
+![Landing Page](https://github.com/lrk83/note-taker/blob/main/Screenshots/Screen%20Shot%202021-07-25%20at%2011.16.03%20AM.png)
+
+### Entering a New Note
+![Entering a New Note](https://github.com/lrk83/note-taker/blob/main/Screenshots/Screen%20Shot%202021-07-25%20at%2011.16.35%20AM.png)
+
+### New Note Saved
+![New Note Saved](https://github.com/lrk83/note-taker/blob/main/Screenshots/Screen%20Shot%202021-07-25%20at%2011.16.47%20AM.png)
